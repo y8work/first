@@ -12,4 +12,3 @@ cnn.add(Dense(64, activation='relu'))                                    # 密�
 cnn.add(Dense(10, activation='softmax'))                                 # 密集層
 
 cnn.summary()
-print('幹你娘積掰')
